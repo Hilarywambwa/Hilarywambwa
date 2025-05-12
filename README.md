@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hilarywambwa
-- 👀 I’m interested in Python and R
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Analysis and GIS using R and Python
+- 👀 I’m interested in Data & GIS
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Analysis and GIS
 - 📫 How to reach me: wambwahilary@gmail.com
 
 <!---
