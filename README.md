@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hilarywambwa
 - 👀 I’m interested in Data & GIS
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analysis and GIS
+- 🌱 I’m currently learning Data Engineering
 - 📫 How to reach me: wambwahilary@gmail.com
 
 <!---
